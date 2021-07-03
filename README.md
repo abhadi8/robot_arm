@@ -1,21 +1,9 @@
 # robot_arm
-لإنجاز مهمة تصميم واجهة تحكم ذراع الروبوت تم إنشاء صفحة الويب 
-(robot_ interface :(html وحفظها بصيغة
-)Visual Studio code(باستخدام 
-CSSو التنسيق باستخدام
-واستخدام الجافا سكريبت لإظهار قيم المحركات حفظتها بامتداد 
-PHP
-لإنشاء 
-Database
-من خلال XAMPP
-وأنشأت 
-" Robot Arm db"
- كما هو موضح في المرفقات
- لربط 
- Database
- مع 
-control interface
-من خلال زر الحفظ و إرسال القيم إلى الجدول في
-Database
-وبالضغط على زر التشغيل
- فإنه ستتغير الحالة إلى 1 بدلاً من 0
+Create a web page with Visual Studio code for robot arm control interface design done
+and formatting with CSS, use javascript to show the engines values and then save them with an extension PHP
+to create Database using XAMPP:
+I created a table with 8 columns " Robot Arm db"
+ As shown in the attachments
+to relate Database With control interface By pressing the save button, the values are saved to the table in Database,
+By pressing the play button it will change the state to 1 instead of 0 
+
